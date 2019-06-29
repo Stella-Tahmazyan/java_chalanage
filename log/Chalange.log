@@ -1,0 +1,26 @@
+2019-06-29 14:24:10 [main] INFO  c.j.c.e.ProductEndpointTest - Starting ProductEndpointTest on DESKTOP-ECU8KLR with PID 16680 (started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:24:10 [main] INFO  c.j.c.e.ProductEndpointTest - No active profile set, falling back to default profiles: default
+2019-06-29 14:24:21 [main] INFO  c.j.c.e.ProductEndpointTest - Started ProductEndpointTest in 11.536 seconds (JVM running for 13.24)
+2019-06-29 14:24:22 [http-nio-8080-exec-1] ERROR c.j.c.service.ProductLocationService - Don't have product like that 12
+2019-06-29 14:24:47 [http-nio-8080-exec-2] ERROR c.j.c.service.ProductLocationService - Don't have product like that 12
+2019-06-29 14:24:49 [http-nio-8080-exec-5] ERROR c.j.c.service.ProductLocationService - Don't have product like that 12
+2019-06-29 14:24:52 [http-nio-8080-exec-8] ERROR c.j.c.service.ProductLocationService - Don't have 1product id and 12 inventory.
+2019-06-29 14:25:05 [http-nio-8080-exec-9] ERROR c.j.c.service.ProductLocationService - Don't have product like that 12
+2019-06-29 14:26:04 [main] INFO  com.jazva.challenge.Application - Starting Application on DESKTOP-ECU8KLR with PID 9356 (C:\Users\User\Desktop\api-challenge\target\classes started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:26:04 [main] INFO  com.jazva.challenge.Application - No active profile set, falling back to default profiles: default
+2019-06-29 14:26:18 [main] INFO  com.jazva.challenge.Application - Started Application in 14.706 seconds (JVM running for 22.098)
+2019-06-29 14:30:04 [main] INFO  c.j.c.e.ProductEndpointTest - Starting ProductEndpointTest on DESKTOP-ECU8KLR with PID 7224 (started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:30:04 [main] INFO  c.j.c.e.ProductEndpointTest - No active profile set, falling back to default profiles: default
+2019-06-29 14:30:16 [main] INFO  c.j.c.e.ProductEndpointTest - Started ProductEndpointTest in 12.109 seconds (JVM running for 13.443)
+2019-06-29 14:33:35 [main] INFO  c.j.c.e.ProductEndpointTest - Starting ProductEndpointTest on DESKTOP-ECU8KLR with PID 10960 (started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:33:35 [main] INFO  c.j.c.e.ProductEndpointTest - No active profile set, falling back to default profiles: default
+2019-06-29 14:33:51 [main] INFO  c.j.c.e.ProductEndpointTest - Started ProductEndpointTest in 16.38 seconds (JVM running for 19.166)
+2019-06-29 14:34:20 [main] INFO  c.j.c.e.ProductEndpointTest - Starting ProductEndpointTest on DESKTOP-ECU8KLR with PID 14152 (started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:34:20 [main] INFO  c.j.c.e.ProductEndpointTest - No active profile set, falling back to default profiles: default
+2019-06-29 14:34:35 [main] INFO  c.j.c.e.ProductEndpointTest - Started ProductEndpointTest in 16.458 seconds (JVM running for 19.514)
+2019-06-29 14:34:59 [main] INFO  c.j.c.e.ProductEndpointTest - Starting ProductEndpointTest on DESKTOP-ECU8KLR with PID 3744 (started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:34:59 [main] INFO  c.j.c.e.ProductEndpointTest - No active profile set, falling back to default profiles: default
+2019-06-29 14:35:14 [main] INFO  c.j.c.e.ProductEndpointTest - Started ProductEndpointTest in 15.706 seconds (JVM running for 18.541)
+2019-06-29 14:35:31 [main] INFO  c.j.c.e.ProductEndpointTest - Starting ProductEndpointTest on DESKTOP-ECU8KLR with PID 17032 (started by User in C:\Users\User\Desktop\api-challenge)
+2019-06-29 14:35:31 [main] INFO  c.j.c.e.ProductEndpointTest - No active profile set, falling back to default profiles: default
+2019-06-29 14:35:46 [main] INFO  c.j.c.e.ProductEndpointTest - Started ProductEndpointTest in 15.446 seconds (JVM running for 19.326)

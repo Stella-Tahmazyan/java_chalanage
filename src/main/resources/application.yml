@@ -4,10 +4,10 @@ spring:
     url: jdbc:mysql://zhorab49.beget.tech/zhorab49_list?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
     username: zhorab49_list
     password: 123456
-#    driver-class-name: com.mysql.jdbc.Driver
-#  jpa:
-#    hibernate:
-#      ddl-auto: update
-#    database-platform: org.hibernate.dialect.MySQL57Dialect
-#    generate-ddl: true
-#    show-sql: true
+
+logging:
+      level:
+          root: ERROR
+          com.jazva: INFO
+      file: log/Chalange.log
+      pattern.file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"

@@ -1,4 +1,3 @@
-abc Tennis ball
-fb1 Futball ball
-tr1 Tennis raquette 1
-tr2 Tennis raquette 2
+{"name" : "Black", "price" : 5 }
+{ "name" : "Blacdk", "price" : 20 }
+{ "name" : "Bdlack", "price" : 30 }
