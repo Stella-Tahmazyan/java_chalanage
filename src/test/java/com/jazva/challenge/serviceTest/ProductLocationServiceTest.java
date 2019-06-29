@@ -1,36 +1,29 @@
-package com.jazva.challenge.service;
+package com.jazva.challenge.serviceTest;
 
-import com.google.common.base.Optional;
 import com.jazva.challenge.model.Location;
 import com.jazva.challenge.model.Product;
 import com.jazva.challenge.model.ProductLocation;
 import com.jazva.challenge.repository.LocationRepository;
 import com.jazva.challenge.repository.ProductLocationRepository;
 import com.jazva.challenge.repository.ProductRepository;
-import javafx.beans.binding.When;
-import jdk.nashorn.internal.runtime.options.Option;
+import com.jazva.challenge.service.ProductLocationService;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.BinaryOperator;
 
 import static junit.framework.TestCase.assertFalse;
-import static net.bytebuddy.matcher.ElementMatchers.any;
 import static org.hibernate.validator.internal.util.Contracts.assertTrue;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
-import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 
 
-public class ProductLocationServiceTerst {
+public class ProductLocationServiceTest {
 
     @InjectMocks
     ProductLocationService productLocationService;
